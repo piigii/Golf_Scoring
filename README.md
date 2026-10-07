@@ -42,3 +42,9 @@ git push origin main
 
 Các thành phần GolfDB/GolfPose/LocateAnything giữ giấy phép và attribution
 của tác giả gốc; xem README trong từng thành phần và model upstream.
+
+## Tải model, dataset và môi trường Python đầy đủ
+
+[Bản workspace đầy đủ và hướng dẫn khôi phục](FULL_WORKSPACE.md) nằm trong
+GitHub Release `workspace-full-2026-10-07`. Clone Git lấy mã nguồn;
+chạy công cụ restore để lấy toàn bộ snapshot model, dữ liệu và môi trường.

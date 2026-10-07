@@ -19,3 +19,5 @@
 .aws/
 .codex/
 .agents/
+_runtime/
+workspace-downloads/
