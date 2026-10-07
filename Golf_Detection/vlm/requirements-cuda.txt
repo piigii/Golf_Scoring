@@ -1,0 +1,11 @@
+# Linux/WSL2, Python 3.11. Install CUDA torch/torchvision separately first.
+transformers==4.57.1
+huggingface-hub==0.36.0
+peft==0.17.1
+accelerate==1.10.1
+numpy==1.26.4
+Pillow==11.1.0
+opencv-python==4.11.0.86
+decord==0.6.0
+lmdb==1.7.5
+matplotlib>=3.8,<4

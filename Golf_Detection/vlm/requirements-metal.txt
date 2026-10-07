@@ -1,0 +1,5 @@
+# Native macOS arm64 / Python 3.11. Separate from the pipeline environment.
+mlx-vlm==0.7.6
+opencv-python==4.11.0.86
+numpy>=1.26,<3
+matplotlib>=3.8,<4

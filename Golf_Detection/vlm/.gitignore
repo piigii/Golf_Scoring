@@ -1,0 +1,8 @@
+.venv*/
+models/
+.cache/
+outputs/
+__pycache__/
+*.log
+setup_status.json
+model_manifest.json

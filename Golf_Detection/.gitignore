@@ -1,0 +1,25 @@
+idea/
+data/videos_160
+*.pkl
+*.tar
+.venv/
+__pycache__/
+third_party/
+models/
+outputs/
+.cache/
+
+# Local datasets, checkpoints, caches and machine configuration
+.DS_Store
+Dataset/
+videos_160/
+*.pth
+*.bin
+*.safetensors
+*.log
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/

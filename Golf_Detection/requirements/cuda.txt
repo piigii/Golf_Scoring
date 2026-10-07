@@ -1,0 +1,2 @@
+# First install the CUDA torch/torchvision wheels; see PORTABILITY.md.
+-r ../requirements-pipeline.txt

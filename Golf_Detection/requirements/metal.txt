@@ -1,0 +1,2 @@
+# Pipeline (PyTorch MPS) on macOS arm64, Python 3.11.
+-r ../requirements-pipeline.txt
